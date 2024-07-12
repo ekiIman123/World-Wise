@@ -54,8 +54,6 @@ function Map() {
             </Popup>
           </Marker>
         ))}
-        {/* use this */}
-        {/* ini eror */}
         <ChangeCenter position={mapPosition} />
       </MapContainer>
     </div>
